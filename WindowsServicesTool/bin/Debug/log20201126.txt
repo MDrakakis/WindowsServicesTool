@@ -1,0 +1,20 @@
+2020-11-26 10:25:27.915 +02:00 [ERR] Source:.ctor
+
+Message:ERROR TEST
+
+StackTrace:   at WindowsServicesTool.MainWindow..ctor() in C:\Users\mdrakakis\Desktop\WindowsServicesTool\WindowsServicesTool\MainWindow.xaml.cs:line 35
+2020-11-26 10:30:13.249 +02:00 [ERR] Source:GetProcessIDByServiceName()
+
+Message:EXX
+
+StackTrace:   at WindowsServicesTool.ProcessHelper.GetProcessIDByServiceName(String serviceName) in C:\Users\mdrakakis\Desktop\WindowsServicesTool\WindowsServicesTool\Services\ProcessHelper.cs:line 22
+2020-11-26 10:30:47.166 +02:00 [ERR] Source:GetProcessIDByServiceName()
+
+Message:EXX
+
+StackTrace:   at WindowsServicesTool.ProcessHelper.GetProcessIDByServiceName(String serviceName) in C:\Users\mdrakakis\Desktop\WindowsServicesTool\WindowsServicesTool\Services\ProcessHelper.cs:line 22
+
+2020-11-26 10:31:12.805 +02:00 [ERR] Source:GetProcessIDByServiceName()
+Message:EXX
+StackTrace:   at WindowsServicesTool.ProcessHelper.GetProcessIDByServiceName(String serviceName) in C:\Users\mdrakakis\Desktop\WindowsServicesTool\WindowsServicesTool\Services\ProcessHelper.cs:line 22
+
