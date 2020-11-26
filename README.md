@@ -1,5 +1,4 @@
 # WindowsServicesTool
- Windows Services Tool
 
 Easy to use tool that let you choose the service you want to stop and you dont open all the time the Task Manager or the Windows Services windows.
 
