@@ -7,3 +7,6 @@ Easy to use tool that let you choose the service you want to stop and you dont o
 2) (Button) Stop the service.
 3) Do the work you want to do without the running service.
 4) (Button) Start the service again.
+
+
+Using Serilog that adds the log file in the current directory of the executable.
